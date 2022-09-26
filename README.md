@@ -1,2 +1,2 @@
 # grad01
-Timur Bakeev
+Тимур Бакеев
