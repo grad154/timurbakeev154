@@ -2,15 +2,15 @@ import sqlite3
 
 db = sqlite3.connect('grad.db')
 
-# create cursor
+create cursor
 c = db.cursor()
 
-# c.execute("""CREATE TABLE articles (
-#     title text,
-#     full_text text,
-#     views integer,
-#     avtor text   
-# )""")
+c.execute("""CREATE TABLE articles (
+    title text,
+    full_text text,
+    views integer,
+    avtor text   
+)""")
 
 #Добавление данных
 c.execute("INSERT INTO articles VALUES ('Amazon is cool!', 'Amazon is really cool', 400, 'BORUM' )")
