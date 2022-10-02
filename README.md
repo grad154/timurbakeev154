@@ -23,4 +23,6 @@ fourth | fifth | sixth
 >that people naturally use in email.
 >As [John Gruber] writes on the [Markdown >site][df1]
 
-[![it is so important](https://img3.goodfon.ru/original/2560x1440/d/60/thunder-lightning-storm.jpg)](https://www.youtube.com/watch?v=xm3YgoEiEDc)
+## ↓↓↓↓↓↓↓↓↓↓ IT IS SO IMPORTANT ↓↓↓↓↓↓↓↓↓↓↓
+
+[![](https://avatars.mds.yandex.net/i?id=d939b91da58961611a816407f343618c-4872349-images-thumbs&n=13)
