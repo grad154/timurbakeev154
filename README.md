@@ -1,13 +1,8 @@
-# **timurbakeev154**
-**HELLO EVETYONE, WHO CAME HERE!!! <br/>**
 
 ### ``who i am?`` <br/>
 - I am the future genius of programming
 - 16 y.o
 - ...
-
-## ``И как говорил Жак Фреско:`` <br/>
->Я кончено молодец, но я ничего не знаю.
 
 <!-- some text [link](https://google.com)
 ![minion](https://sd.keepcalms.com/i/eat-drink-put-your-cup-in-the-dishwasher.png) -->
