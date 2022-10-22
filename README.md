@@ -1,8 +1,6 @@
 <!-- some text [link](https://google.com)
 ![minion](https://sd.keepcalms.com/i/eat-drink-put-your-cup-in-the-dishwasher.png) -->
-#**LIST OF COMPLETED TASK:**
-1.conversion from decimal number system to any other(1_From10NumSystem)
-2.
+
 
 
 <!-- >Markdown is a lightweight markup language >based on the formatting conventions
