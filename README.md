@@ -16,7 +16,8 @@
 <!-- >Markdown is a lightweight markup language >based on the formatting conventions
 >that people naturally use in email.
 >As [John Gruber] writes on the [Markdown >site][df1] -->
-### 12) В папке [**turtle**](https://github.com/grad154/timurbakeev154/tree/main/turtle) находится файлы с черепашьей графикой
+### 13) В папке [**turtle**](https://github.com/grad154/timurbakeev154/tree/main/turtle) находится файлы с черепашьей графикой
+### 14) 50 решенных уравнений для нейронки в таблицах Excel [(**корнидлянейронки.xlsx**)](https://github.com/grad154/timurbakeev154/blob/main/%D0%BA%D0%BE%D1%80%D0%BD%D0%B8%D0%B4%D0%BB%D1%8F%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BA%D0%B8.xlsx)
 
 ## [**ССылка на Open Proccesing**](https://www.youtube.com/watch?v=xm3YgoEiEDc)
 ## [**ССылка на Open Proccesing**](https://openprocessing.org/user/339779?view=sketches&o=2)
