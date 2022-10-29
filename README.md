@@ -1,5 +1,4 @@
-<!-- some text [link](https://google.com)
-![minion](https://sd.keepcalms.com/i/eat-drink-put-your-cup-in-the-dishwasher.png) -->
+
 ### **СПИСОК ВСЕХ МОИХ ПРОГРАММ:**
 #### 1) Перевод из десятичной системы счисления в любую другую[(**1_From10NumSystem.py**)](https://github.com/grad154/timurbakeev154/blob/main/1_From10NumSystem.py)
 #### 2) Первая база данных с описанием некоторых основных команд[(**baza.py**)](https://github.com/grad154/timurbakeev154/blob/main/baza.py)
@@ -24,6 +23,7 @@
 [![](https://avatars.mds.yandex.net/i?id=d939b91da58961611a816407f343618c-4872349-images-thumbs&n=13)](https://www.youtube.com/watch?v=xm3YgoEiEDc)
 ##### Закон алгебры логики
 $$ (A ∧ B) ∧ C = A ∧ (B ∧ C) $$
-![lagrida_latex_editor (1)](https://user-images.githubusercontent.com/114381790/198812901-17ccee74-599e-488f-b654-dcdfa3103f48.png)
+![lagrida_latex_editor (2)](https://user-images.githubusercontent.com/114381790/198812931-351d6576-320d-4d59-a07c-1d5a9021e0a3.png)
+
 
 
