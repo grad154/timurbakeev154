@@ -22,4 +22,4 @@
 ### [**ССылка на Open Proccesing**](https://openprocessing.org/user/339779?view=sketches&o=2)
 
 [![](https://avatars.mds.yandex.net/i?id=d939b91da58961611a816407f343618c-4872349-images-thumbs&n=13)](https://www.youtube.com/watch?v=xm3YgoEiEDc)
-$$ E = mc^2 $$
+$$ (A ^ B) ^ C = A ^ (B ^ C) $$
