@@ -25,6 +25,6 @@
 $$ (A ∧ B) ∧ C = A ∧ (B ∧ C) $$
 <!-- [lagrida_latex_editor (2)](https://user-images.githubusercontent.com/114381790/198812931-351d6576-320d-4d59-a07c-1d5a9021e0a3.png)
 ![lagrida_latex_editor (2)] -- !>
-
+$$ {E_0}^{2}   E_0^2=\sqrt{\frac{Fa_0^2}{(x-1)x}}+\alpha_1^2+\beta_1^{x+1} $$
 
 
