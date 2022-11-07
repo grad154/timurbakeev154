@@ -1,5 +1,5 @@
 
-### **ПУК ПУК СПИСОК ВСЕХ МОИХ ПРОГРАММ:**
+### **СПИСОК ВСЕХ МОИХ ПРОГРАММ:**
 #### 1) Перевод из десятичной системы счисления в любую другую[(**1_From10NumSystem.py**)](https://github.com/grad154/timurbakeev154/blob/main/1_From10NumSystem.py)
 #### 2) Первая база данных с описанием некоторых основных команд[(**baza.py**)](https://github.com/grad154/timurbakeev154/blob/main/baza.py)
 #### 3) Пример решения задания из ЕГЭ[(**ege17.py**)](https://github.com/grad154/timurbakeev154/blob/main/ege17.py)
