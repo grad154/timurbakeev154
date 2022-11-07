@@ -27,7 +27,7 @@ $$ (A ∧ B) ∧ C = A ∧ (B ∧ C) $$
 
 $$ \bar{E}_0^2 = \sqrt{\frac{F\alpha_0^2}{(x-1)\cdot x}} + \alpha_1^2 + \beta_1^2 $$
 
-
+![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/114381790/200240100-1090ac77-13d6-4405-8ea1-d0fd63bd2d73.png)
 
 
 
