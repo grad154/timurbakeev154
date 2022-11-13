@@ -19,6 +19,7 @@
 #### 14) Список основынах запросовых команд в SQL[(*SqlЗапрсыSpis.md*)](https://github.com/grad154/timurbakeev154/blob/main/Sql%D0%97%D0%B0%D0%BF%D1%80%D1%81%D1%8BSpis.md)
 ### [**ССылка на Open Proccesing**](https://www.youtube.com/watch?v=xm3YgoEiEDc)
 ### [**ССылка на Open Proccesing**](https://openprocessing.org/user/339779?view=sketches&o=2)
+#### 14) Универсальный решатель задач по информатике на информацию[(**УниверсальныйРешатель.py**)](https://github.com/grad154/timurbakeev154/blob/main/УниверсальныйРешатель.py)
 
 [![](https://avatars.mds.yandex.net/i?id=d939b91da58961611a816407f343618c-4872349-images-thumbs&n=13)](https://www.youtube.com/watch?v=xm3YgoEiEDc)
 ##### Закон алгебры логики
