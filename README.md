@@ -18,6 +18,7 @@
 #### 13) 50 решенных уравнений для нейронки в таблицах Excel [(**корнидлянейронки.xlsx**)](https://github.com/grad154/timurbakeev154/blob/main/%D0%BA%D0%BE%D1%80%D0%BD%D0%B8%D0%B4%D0%BB%D1%8F%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BA%D0%B8.xlsx)
 #### 14) Список основынах запросовых команд в SQL[(*SqlЗапрсыSpis.md*)](https://github.com/grad154/timurbakeev154/blob/main/Sql%D0%97%D0%B0%D0%BF%D1%80%D1%81%D1%8BSpis.md)
 #### 14) Универсальный решатель задач по информатике на информацию[(**УниверсальныйРешатель.py**)](https://github.com/grad154/timurbakeev154/blob/main/УниверсальныйРешатель.py)
+### 15) Реализация небольшой викторины на знание перевода английских слов[(englishtest.py)](https://github.com/grad154/timurbakeev154/blob/main/englishtest.py)
 ### [**ССылка на Open Proccesing**](https://www.youtube.com/watch?v=xm3YgoEiEDc)
 ### [**ССылка на Open Proccesing**](https://openprocessing.org/user/339779?view=sketches&o=2)
 
