@@ -26,6 +26,14 @@
 ##### Закон алгебры логики
 $$ (A ∧ B) ∧ C = A ∧ (B ∧ C) $$
 
+```mermaid
+flowchart LR
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
+
 
 $$ \bar{E}_0^2 = \sqrt{\frac{F\alpha_0^2}{(x-1)\cdot x}} + \alpha_1^2 + \beta_1^2 $$
 
