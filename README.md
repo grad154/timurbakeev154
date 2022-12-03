@@ -1,3 +1,11 @@
+###Мой цикл жизни в лицее
+```mermaid
+flowchart LR
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
 
 ### **СПИСОК ВСЕХ МОИХ ПРОГРАММ:**
 #### 1) Перевод из десятичной системы счисления в любую другую[(**1_From10NumSystem.py**)](https://github.com/grad154/timurbakeev154/blob/main/1_From10NumSystem.py)
@@ -25,16 +33,6 @@
 [![](https://avatars.mds.yandex.net/i?id=d939b91da58961611a816407f343618c-4872349-images-thumbs&n=13)](https://www.youtube.com/watch?v=xm3YgoEiEDc)
 ##### Закон алгебры логики
 $$ (A ∧ B) ∧ C = A ∧ (B ∧ C) $$
-
-```mermaid
-flowchart LR
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-
-
 $$ \bar{E}_0^2 = \sqrt{\frac{F\alpha_0^2}{(x-1)\cdot x}} + \alpha_1^2 + \beta_1^2 $$
 
 ![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/114381790/200240100-1090ac77-13d6-4405-8ea1-d0fd63bd2d73.png)
