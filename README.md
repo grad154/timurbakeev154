@@ -1,10 +1,10 @@
 ###Мой цикл жизни в лицее
 ```mermaid
 flowchart LR
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[Hard] -->|начало| B(сдача ЕГЭ)
+B --> C{2 исхода}
+C -->|One| D[Поступление в ВУЗ]
+C -->|Two| E[Поступление в армию]
 ```
 
 ### **СПИСОК ВСЕХ МОИХ ПРОГРАММ:**
