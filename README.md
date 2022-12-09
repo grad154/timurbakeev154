@@ -33,7 +33,7 @@ E -->|несдала ЕГЭ| M[Ищешь парня]
 ### 15) Реализация небольшой викторины на знание перевода английских слов[(englishtest.py)](https://github.com/grad154/timurbakeev154/blob/main/englishtest.py)
 ### [**ССылка на Open Proccesing**](https://www.youtube.com/watch?v=xm3YgoEiEDc)
 ### [**ССылка на Open Proccesing**](https://openprocessing.org/user/339779?view=sketches&o=2)
-
+#### 16) Картинка сгенерированая нейросетью[(**grad154_minion_vampire_7448b01d-5bb6-4d5a-96ee-b79dd1a67ea7.png**)](https://github.com/grad154/timurbakeev154/blob/main/grad154_minion_vampire_7448b01d-5bb6-4d5a-96ee-b79dd1a67ea7.png)
 [![](https://avatars.mds.yandex.net/i?id=d939b91da58961611a816407f343618c-4872349-images-thumbs&n=13)](https://www.youtube.com/watch?v=xm3YgoEiEDc)
 ##### Закон алгебры логики
 $$ (A ∧ B) ∧ C = A ∧ (B ∧ C) $$
