@@ -34,7 +34,6 @@ E -->|несдала ЕГЭ| M[Ищешь парня]
 ### [**ССылка на Open Proccesing**](https://www.youtube.com/watch?v=xm3YgoEiEDc)
 ### [**ССылка на Open Proccesing**](https://openprocessing.org/user/339779?view=sketches&o=2)
 #### 16) Картинка сгенерированая нейросетью[(**grad154_minion_vampire_7448b01d-5bb6-4d5a-96ee-b79dd1a67ea7.png**)](https://github.com/grad154/timurbakeev154/blob/main/grad154_minion_vampire_7448b01d-5bb6-4d5a-96ee-b79dd1a67ea7.png)
-[![](![(https://user-images.githubusercontent.com/114381790/206896393-3f1b1103-08a2-4de5-9b4e-f3e181c0ad28.png)](https://www.youtube.com/watch?v=xm3YgoEiEDc)
 
 
 #### 17) Слайдшоу из картинок сгенерированных нейросетью MidJorney[(**возможностиНейронки154.mp4**)](https://github.com/grad154/timurbakeev154/blob/main/возможностиНейронки154.mp4) и код программы[(**slideshow.py**)](https://github.com/grad154/timurbakeev154/blob/main/slideshow.py)
