@@ -10,6 +10,8 @@ D -->|не сдал ЕГЭ|G[Поступление в армию]
 E -->|сдала ЕГЭ| Q[Поступление в ВУЗ]
 E -->|несдала ЕГЭ| M[Ищешь парня]
 ```
+[![gradsky154_diamond_hail_5f9fe71b-8f66-44f1-8111-4de5df0acf12](https://user-images.githubusercontent.com/114381790/206897264-b355f16b-13ad-4580-884e-7d4c854a30e1.png)](https://www.youtube.com/watch?v=ljgYluUiZls)
+
 
 ### **СПИСОК ВСЕХ МОИХ ПРОГРАММ:**
 #### 1) Перевод из десятичной системы счисления в любую другую[(**1_From10NumSystem.py**)](https://github.com/grad154/timurbakeev154/blob/main/1_From10NumSystem.py)
