@@ -35,6 +35,8 @@ E -->|несдала ЕГЭ| M[Ищешь парня]
 ### [**ССылка на Open Proccesing**](https://openprocessing.org/user/339779?view=sketches&o=2)
 #### 16) Картинка сгенерированая нейросетью[(**grad154_minion_vampire_7448b01d-5bb6-4d5a-96ee-b79dd1a67ea7.png**)](https://github.com/grad154/timurbakeev154/blob/main/grad154_minion_vampire_7448b01d-5bb6-4d5a-96ee-b79dd1a67ea7.png)
 [![](https://avatars.mds.yandex.net/i?id=d939b91da58961611a816407f343618c-4872349-images-thumbs&n=13)](https://www.youtube.com/watch?v=xm3YgoEiEDc)
+####17) Слайдшоу из картинок сгенерированных нейросетью MidJorney[(**возможностиНейронки154.mp4**)](https://github.com/grad154/timurbakeev154/blob/main/возможностиНейронки154.mp4) и код программы[(**slideshow.py**)](https://github.com/grad154/timurbakeev154/blob/main/slideshow.py)
+
 ##### Закон алгебры логики
 $$ (A ∧ B) ∧ C = A ∧ (B ∧ C) $$
 $$ \bar{E}_0^2 = \sqrt{\frac{F\alpha_0^2}{(x-1)\cdot x}} + \alpha_1^2 + \beta_1^2 $$
