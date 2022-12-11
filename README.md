@@ -34,7 +34,9 @@ E -->|несдала ЕГЭ| M[Ищешь парня]
 ### [**ССылка на Open Proccesing**](https://www.youtube.com/watch?v=xm3YgoEiEDc)
 ### [**ССылка на Open Proccesing**](https://openprocessing.org/user/339779?view=sketches&o=2)
 #### 16) Картинка сгенерированая нейросетью[(**grad154_minion_vampire_7448b01d-5bb6-4d5a-96ee-b79dd1a67ea7.png**)](https://github.com/grad154/timurbakeev154/blob/main/grad154_minion_vampire_7448b01d-5bb6-4d5a-96ee-b79dd1a67ea7.png)
-[![](https://avatars.mds.yandex.net/i?id=d939b91da58961611a816407f343618c-4872349-images-thumbs&n=13)](https://www.youtube.com/watch?v=xm3YgoEiEDc)
+[![](![gradsky154_diamond_hail_5f9fe71b-8f66-44f1-8111-4de5df0acf12](https://user-images.githubusercontent.com/114381790/206896393-3f1b1103-08a2-4de5-9b4e-f3e181c0ad28.png)
+)](https://www.youtube.com/watch?v=xm3YgoEiEDc)
+
 ####17) Слайдшоу из картинок сгенерированных нейросетью MidJorney[(**возможностиНейронки154.mp4**)](https://github.com/grad154/timurbakeev154/blob/main/возможностиНейронки154.mp4) и код программы[(**slideshow.py**)](https://github.com/grad154/timurbakeev154/blob/main/slideshow.py)
 
 ##### Закон алгебры логики
