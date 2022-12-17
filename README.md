@@ -50,4 +50,26 @@ $$ \bar{E}_0^2 = \sqrt{\frac{F\alpha_0^2}{(x-1)\cdot x}} + \alpha_1^2 + \beta_1^
 ![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/114381790/200240100-1090ac77-13d6-4405-8ea1-d0fd63bd2d73.png)
 <!-- >[**ССылка на MIRO**](https://miro.com/welcome/QzJaNWc1Szl2SnV3eUxXeE81R0FrbEtTSFpMeXF3Nm9TZVJsejNYOEUxUmpHNUpJVFY1aUxBd1BZd0xNUjM3UXwzNDU4NzY0NTM4NTA1MjYyOTYzfDQ=?share_link_id=864371461540) --> 
 
+| номер задачи | статус |
+|--------------|--------|
+| 1            |        |
+| 2            |        |
+| 3            |        |
+| 4            |        |
+| 5            |        |
+| 6            |        |
+| 7            |        |
+| 8            |        |
+| 9            |        |
+| 10           |        |
+| 11           |        |
+| 12           |        |
+| 13           |        |
+| 14           |        |
+| 15           |        |
+| 16           |        |
+| 17           |        |
+| 18           |        |
+| 20           |        |
+
 
