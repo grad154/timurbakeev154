@@ -28,3 +28,6 @@
 3) проверяем числл по условию и дописываем число по данному алгоритму
 4) переводим в десятичную и проверяем число по условию задачи
 код решения [(**binor.py**)](https://github.com/grad154/timurbakeev154/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5%D0%9B%D0%B8%D1%86%D0%B5%D0%B9/binor.py)
+
+### задача 6 
+код решения [(**6ege.py**)](https://github.com/grad154/timurbakeev154/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5%D0%9B%D0%B8%D1%86%D0%B5%D0%B9/6ege.py)
