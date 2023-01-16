@@ -32,3 +32,11 @@
 
 ### задача 6 
 код решения [(**6ege.py**)](https://github.com/grad154/timurbakeev154/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5%D0%9B%D0%B8%D1%86%D0%B5%D0%B9/6ege.py)
+
+### Задача 8
+код решения [(**8ege23.py**)](https://github.com/grad154/timurbakeev154/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5%D0%9B%D0%B8%D1%86%D0%B5%D0%B9/8ege23.py)
+
+1) генерируем все возможные варианты чисел при данных условиях(for or product-itertools)
+2) проверяем строчку на условие
+3) выводим счетчик значений
+4) 
